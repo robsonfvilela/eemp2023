@@ -1,5 +1,13 @@
 # Prefácio {.unnumbered}
 
+::: {layout="[[1], [1]]"}
+![Surus](img/EEMP — Logo.png){#fig-eemp width=150px}
+![Hanno](img/EEMP — Unesco.jpg){#fig-peaunesco width=150px}
+:::
+
+
+
+
 This is a Quarto book.
 
 To learn more about Quarto books visit <https://quarto.org/docs/books>.

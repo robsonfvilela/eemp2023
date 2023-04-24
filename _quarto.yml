@@ -74,9 +74,9 @@ citation-location: margin
 
 fontsize: 16px # Default: 18px
 
-fig-cap-location: margin
+fig-cap-location: bottom
 tbl-cap-location: top
 
-
+fig-align: center
 
 
