@@ -8,9 +8,9 @@ lang: pt
   #categories: true
 
 book:
-  title: "Língua Portuguesa (2023)"
+  title: "Língua Portuguesa"
   author: "Prof. Robson"
-  date: "4/24/2023"
+  #date: "4/24/2023"
   page-navigation: true
   chapters:
     - index.qmd
