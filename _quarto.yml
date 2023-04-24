@@ -22,6 +22,7 @@ book:
       chapters:
           - bim02/bim02_cap01.qmd
           - bim02/bim02_cap02.qmd
+          - bim02/bim02_cap03.qmd
     - references.qmd
   #appendices:
     #- cap_01.qmd
@@ -70,6 +71,11 @@ editor: source
 
 reference-location: margin
 citation-location: margin
+
+fontsize: 16px # Default: 18px
+
+fig-cap-location: margin
+tbl-cap-location: top
 
 
 
