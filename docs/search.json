@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Língua Portuguesa (2023)",
     "section": "",
-    "text": "Prefácio\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2"
+    "text": "Prefácio\nThis is a Quarto book.\nTo learn more about Quarto books visit https://quarto.org/docs/books.\n\n1 + 1\n\n[1] 2\n\n\nKnuth (1984)\n\nKnuth, Donald E. 1984. \"Literate Programming\". Comput. J. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97.\n\nCEREJA, William Roberto, e MAGALHÃES Thereza Cochar. 2016. Português : linguagens, vol. 3. 11.ª ed. São Paulo: Saraiva.\nCEREJA e Thereza Cochar (2016)"
   },
   {
     "objectID": "intro.html",
@@ -23,9 +23,9 @@
   {
     "objectID": "references.html",
     "href": "references.html",
-    "title": "References",
+    "title": "Referências",
     "section": "",
-    "text": "Knuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
+    "text": "CEREJA, William Roberto, and MAGALHÃES Thereza Cochar. 2016.\nPortuguês : linguagens, vol. 3. 11th ed. São\nPaulo: Saraiva.\n\n\nKnuth, Donald E. 1984. “Literate Programming.” Comput.\nJ. 27 (2): 97–111. https://doi.org/10.1093/comjnl/27.2.97."
   },
   {
     "objectID": "bim01/bim01_.html#crônica-de-moacyr-scliar",
@@ -123,7 +123,7 @@
     "href": "bim02/bim02_.html",
     "title": "2º BIMESTRE",
     "section": "",
-    "text": "2º Bimestre\nLista de conteúdos básicos que serão estudados ao longo do 2º bimestre de 2023. Note que os conteúdos estão organizados por categorias e não pela ordem cronológica em que serão trabalhados\nExemplo de Carta Argumentativa: crônica de Moacyr Scliar.\nProposta de Carta Argumentativa: tema áreas de risco."
+    "text": "2º Bimestre"
   },
   {
     "objectID": "bim02/bim02_.html#gramática",

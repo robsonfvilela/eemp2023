@@ -31,13 +31,13 @@ book:
       - text: "Índice"
         href: index.qmd
 
-sidebar: 
-  collapse: true
+#sidebar: 
+  #collapse: true
 
 number-sections: false
     
     
-bibliography: references.bib
+bibliography: references.bib # exportar como "Better BibLaTeX"
 #csl: abnt-ufmg.csl # NÃO USAR!!!
 
 format:
