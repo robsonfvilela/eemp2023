@@ -1,0 +1,76 @@
+project:
+  type: book
+  output-dir: docs
+
+lang: pt
+
+#listing: 
+  #categories: true
+
+book:
+  title: "Língua Portuguesa (2023)"
+  author: "Prof. Robson"
+  date: "4/24/2023"
+  page-navigation: true
+  chapters:
+    - index.qmd
+    #- summary.qmd
+    - part: bim01/bim01_.qmd ### 1º BIMESTRE ###
+      chapters:
+          - bim01/bim01_cap01.qmd
+    - part: bim02/bim02_.qmd ### 2º BIMESTRE ###
+      chapters:
+          - bim02/bim02_cap01.qmd
+          - bim02/bim02_cap02.qmd
+    - references.qmd
+  #appendices:
+    #- cap_01.qmd
+    #- cap_01.qmd
+  page-footer:
+    center: 
+      - text: "Índice"
+        href: index.qmd
+
+sidebar: 
+  collapse: true
+
+number-sections: false
+    
+    
+bibliography: references.bib
+#csl: abnt-ufmg.csl # NÃO USAR!!!
+
+format:
+  html:
+    theme:
+      light: flatly #litera
+      dark: superhero #darkly #flatly #sketchy #lux #litera #darkly #superhero
+    code-copy: true
+    linestretch: 1.5 # Espaçamento de linha (padrão = 1.5)
+    margin-left: 00mm
+    margin-right: 00mm
+    margin-top: 00mm
+    margin-bottom: 00mm
+  pdf:
+    documentclass: scrreprt
+    include-in-header: 
+      text: |
+        \usepackage{makeidx}
+        \makeindex
+    include-after-body: 
+      text: |
+        \printindex
+
+highlight-style: pygments
+
+editor: source
+
+
+
+
+reference-location: margin
+citation-location: margin
+
+
+
+

@@ -1,0 +1,52 @@
+---
+title: "2º BIMESTRE"
+#author: "Tristan O'Malley"
+#date: "2023-04-21"
+#date-modified: "5/23/2021"
+#categories: [UFU, Gêneros Textuais, Carta Argumentativa]
+---
+
+<!-- ![](thumbnail.jpg) -->
+
+
+
+## 2º Bimestre {.unnumbered}
+
+## Conteúdo
+
+
+
+Lista de conteúdos básicos que serão estudados ao longo do 2º bimestre de 2023. Note que os conteúdos estão organizados por categorias e não pela ordem cronológica em que serão trabalhados.^[Dependendo do tempo disponível, outros conteúdos poderão ser acrescentados para complementar os estudos.]
+
+### Gramática
+- Regência Verbal
+	- Verbos mais comuns; <!-- apresentar os verbos aos poucos --> 
+	- Crase.
+
+### Literatura
+- Naturalismo
+	- O Cortiço, de Aluísio Azevedo.
+- Pré-Modernismo
+	- Os Sertões, de Euclides da Cunha;
+	- Triste fim de Policarpo Quaresma, de Lima Barreto.
+
+### Interpretação e Produção de Textos
+- Carta Argumentativa (solicitação, reclamação);
+- Carta Aberta.
+
+## Atividades Avaliativas
+
+- `10,0`: Prova bimestral;
+- `03,0`: Vistos (atividades feitas no caderno);
+- `03,0`: Parágrafo de desenvolvimento da redação do ENEM;
+- `09,0`: Participação em sala^[**Durante as aulas:** ter atenção às exposições de conteúdo; fazer perguntas pertinentes; perticipar com comentários e observações que acrescentem ao conteúdo; (esforçar-se para) responder às perguntas feitas pelo professor a respeito do conteúdo e, também, não atrapalhar o andamento da aula.]
+
+
+
+
+---
+
+
+[Exemplo de Carta Argumentativa](bim02_cap01.qmd): crônica de Moacyr Scliar.
+
+[Proposta de Carta Argumentativa](bim02_cap02.qmd): tema áreas de risco.
