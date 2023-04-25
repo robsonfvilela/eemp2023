@@ -30,7 +30,7 @@ book:
     #- cap_01.qmd
   page-footer:
     center: 
-      - text: "Índice"
+      - text: "Prefácio"
         href: index.qmd
 
 #sidebar: 
