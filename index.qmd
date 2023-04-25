@@ -12,7 +12,6 @@
 ---
 
 
-
 ![](img/EEMP — Letras.jpg){#fig-peaunesco width=608px}
 
 This is a Quarto book.
