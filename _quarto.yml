@@ -23,6 +23,7 @@ book:
           - bim02/bim02_cap01.qmd
           - bim02/bim02_cap02.qmd
           - bim02/bim02_cap03.qmd
+          - bim02/bim02_cap04.qmd
     - references.qmd
   #appendices:
     #- cap_01.qmd
