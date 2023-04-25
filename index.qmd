@@ -1,9 +1,17 @@
 # Prefácio {.unnumbered}
 
-::: {layout="[[1], [1]]"}
+
+
+::: {layout="[[1,1], [1]]"}
 ![Surus](img/EEMP — Logo.png){#fig-eemp width=150px}
 ![Hanno](img/EEMP — Unesco.jpg){#fig-peaunesco width=150px}
+![](img/EEMP — Letras.jpg){#fig-peaunesco width=304px}
+
 :::
+
+
+---
+
 
 
 
