@@ -2,17 +2,20 @@
 
 
 
+---
+
 ::: {layout="[[1], [1]]"}
-![Surus](img/EEMP — Logo.png){#fig-eemp width=300px}
-![Hanno](img/EEMP — Unesco.jpg){#fig-peaunesco width=300px}
+![Surus](img/logo-eemp.png){#fig-eemp width=300px}
+![Hanno](img/logo-unesco.jpg){#fig-peaunesco width=300px}
 
 :::
-
 
 ---
 
 
-![](img/EEMP — Letras.jpg){#fig-peaunesco width=608px}
+![](img/logo-letras.jpg){#fig-peaunesco width=608px}
+
+---
 
 This is a Quarto book.
 
