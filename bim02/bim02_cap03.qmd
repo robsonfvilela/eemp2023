@@ -3,13 +3,14 @@ title: "Naturalismo"
 #author: "Aluísio Azevedo"
 #date: "2023-04-21"
 #date-modified: "5/23/2021"
+#categories: [Literatura Brasileira, Naturalismo]
 ---
 
 <!-- ![](thumbnail.jpg) -->
 
 - - -
 
-:::{.collout-margin}
+:::{.callout-margin}
 O conteúdo desta página foi retirado de @alvesVeredasPalavraVol2016b (pp. 308-312).
 :::
 
@@ -52,7 +53,7 @@ Também merece relevo uma produção ficcional de caráter regionalista. Mais ob
 ## A originalidade das obras de Raul Pompeia e Aluísio Azevedo
 
 ::: {.column-margin}
-![Raul Pompeia](img/raul-pompeia.jpeg)
+![Raul Pompeia](img/raul-pompeia.jpg)
 
 O carioca **Raul Pompeia** (1863-1895) publicou artigos de crítica literária, contos, crônicas e folhetins. Ilustrou diversos livros seus e de outros autores e também fez caricaturas de personalidades da época. Em 1880, publicou o ensaio literário *Uma tragédia no Amazonas* e, em 1881, publicou o livro de poemas *Canções sem metro*. Escreveu também o romance *Alma morta*, mas foi com *O Ateneu* (1888) que se tornou conhecido.
 
@@ -95,7 +96,7 @@ No romance, o cortiço, habitado por pessoas de diferentes origens e caracterís
 
 A obra, que tem como epígrafe “A verdade, somente a verdade, nada mais que a verdade”, está ancorada na observação rigorosa do mundo físico e na teoria determinista. Entretanto, ultrapassa o simples determinismo ao apresentar também outra perspectiva sobre a condição humana: no romance, a exploração física e econômica das pessoas é compreendida como consequência do modelo capitalista, cujo representante maior é o inescrupuloso João Romão, capaz de manipular tudo e a todos para ascender socialmente. Esta é uma visão pessimista do funcionamento da sociedade brasileira, calcado na exploração de muitos para o sustento do privilégio de poucos.
 
-A linguagem de *O cortiço* é ágil e bem construída. Os dados da realidade concreta são captados por diferentes canais sensoriais, e os gostos, as cores e os cheiros ganham destaque na caracterização minuciosa do ambiente, das pessoas e de seu modo de vida. A personificação do espaço coletivo e a zoomorfização dos personagens, que frequentemente são rebaixados à condição animal, são estratégias usadas pelo autor para enfatizar a degradação do cortiço e das rela- ções sociais ali constituídas.
+A linguagem de *O cortiço* é ágil e bem construída. Os dados da realidade concreta são captados por diferentes canais sensoriais, e os gostos, as cores e os cheiros ganham destaque na caracterização minuciosa do ambiente, das pessoas e de seu modo de vida. A personificação do espaço coletivo e a zoomorfização dos personagens, que frequentemente são rebaixados à condição animal, são estratégias usadas pelo autor para enfatizar a degradação do cortiço e das relações sociais ali constituídas.
 
 ## Literatura e publicidade
 
@@ -103,7 +104,7 @@ Hoje, é comum que livros sejam lançados por meio de campanhas publicitárias, 
 
 Entretanto, essas estratégias, no século XIX, eram uma grande novidade e Aluísio Azevedo foi um dos pioneiros a unir literatura e publicidade no Brasil, consagrando-se como “o primeiro romancista de massas”. Sobre a ousadia do escritor, leia o que escreveu Carlos Faraco:
 
-::: {.callout-important}
+::: {.callout-note}
 
 ::: aside
 ![Primeira página do jornal *Pacotilha*, fundado por Aluísio Azevedo e amigos.](img/naturalismo-c.jpeg)
@@ -116,6 +117,4 @@ Aquilo que parecia ser uma notícia confundia, de propósito, um personagem de f
 > FARACO, Carlos. Aluísio Azevedo: o povo como personagem. In: AZEVEDO, Aluísio. *O cortiço*. São Paulo: Ática, 1994. p. 110.
 :::
 
---- 
 
-> 

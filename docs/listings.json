@@ -11,10 +11,15 @@
     "listing": "/index.html",
     "items": [
       "/bim01/bim01_.html",
-      "/bim01/bim01_cap01.html",
+      "/bim02/bim02_.html",
+      "/bim02/bim02_cap06_.html",
+      "/bim02/bim02_cap07_.html",
       "/bim02/bim02_cap01.html",
-      "/references.html",
-      "/summary.html"
+      "/bim02/bim02_cap05_.html",
+      "/bim02/bim02_cap03.html",
+      "/bim02/bim02_cap04.html",
+      "/bim02/bim02_cap02.html",
+      "/bim01/bim01_cap01.html"
     ]
   },
   {
@@ -32,5 +37,17 @@
   {
     "listing": "/bim02/bim02_cap01.html",
     "items": []
+  },
+  {
+    "listing": "/bim02/bim02_cap07_.html",
+    "items": [
+      "/bim02/bim02_.html",
+      "/bim02/bim02_cap06_.html",
+      "/bim02/bim02_cap01.html",
+      "/bim02/bim02_cap05_.html",
+      "/bim02/bim02_cap03.html",
+      "/bim02/bim02_cap04.html",
+      "/bim02/bim02_cap02.html"
+    ]
   }
 ]

@@ -20,10 +20,15 @@ book:
           - bim01/bim01_cap01.qmd
     - part: bim02/bim02_.qmd ### 2º BIMESTRE ###
       chapters:
-          - bim02/bim02_cap01.qmd
-          - bim02/bim02_cap02.qmd
-          - bim02/bim02_cap03.qmd
-          - bim02/bim02_cap04.qmd
+          - bim02/bim02_cap01.qmd ## Exemplo de Carta Argumentativa
+          - bim02/bim02_cap02.qmd ## Proposta de Carta Argumentativa
+          - bim02/bim02_cap03.qmd ## Naturalismo
+          - bim02/bim02_cap04.qmd ## O Cortiço
+          - bim02/bim02_cap05.qmd ## Pré-Modernismo
+          - bim02/bim02_cap06.qmd ## Augusto dos Anjos
+          - bim02/bim02_cap07.qmd ## Euclides da Cunha
+          - bim02/bim02_cap08.qmd ## Lima Barreto
+          - bim02/bim02_cap09.qmd ## Monteiro Lobato
     #- references.qmd
   #appendices:
     #- cap_01.qmd
@@ -67,17 +72,10 @@ highlight-style: pygments
 
 editor: source
 
-
-
-
 reference-location: margin
 citation-location: margin
-
-fontsize: 16px # Default: 18px
-
 fig-cap-location: bottom
 tbl-cap-location: top
-
 fig-align: center
 
-
+fontsize: 16px # Default: 18px

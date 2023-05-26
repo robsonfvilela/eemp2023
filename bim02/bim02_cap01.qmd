@@ -1,5 +1,5 @@
 ---
-title: "Exemplo de Carta Argumentativa"
+title: "Carta Argumentativa (exemplo)"
 #author: "Tristan O'Malley"
 #date: "2023-04-21"
 #date-modified: "5/23/2021"
@@ -54,12 +54,10 @@ Vejam que o autor utilizou-se do gênero carta para escrever uma crônica para o
 
 1) Qual é a abordagem principal da crônica? E a da carta? 
 
-2) A carta argumentativa apresenta em sua composição os elementos do discurso argumentativo.  Identifique alguns desses elementos na carta lida.
+2) A carta argumentativa apresenta em sua composição os elementos do discurso argumentativo. Identifique alguns desses elementos na carta lida.
 
 3) Na carta argumentativa, há uma interlocução explícita, ou seja, ela é destinada a um ou mais destinatários de forma específica. A quem se destina a carta lida?
 
 4) O grau de formalidade, na carta argumentativa, dependerá do nível de intimidade estabelecido entre os interlocutores. Nessa carta, a linguagem é formal ou coloquial? Justifique esse uso.
 
-5) Dentre os elementos da estrutura formal da carta (local e data, vocativo, corpo do texto, despedida e assinatura), quais são os que não aparecem na carta de Moacyr Scliar?
-
-6) A escolha do autor, em relação ao gênero utilizado para escrever a crônica, favoreceu ou desfavoreceu sua argumentação implícita no texto?
+5) A escolha do autor, em relação ao gênero utilizado para escrever a crônica, favoreceu ou desfavoreceu sua argumentação implícita no texto?
