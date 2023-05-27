@@ -5,4 +5,4 @@ Este repositório armazena conteúdo trabalhado em sala de aula.
 
 [Link do Site](https://robsonfvilela.github.io/eemp2023/)
 
-![](logo-eemp.png)
+![[logo-eemp.png]]
