@@ -67,7 +67,6 @@ format:
     include-after-body: 
       text: |
         \printindex
-
 highlight-style: pygments
 
 editor: source
