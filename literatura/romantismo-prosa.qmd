@@ -30,8 +30,7 @@ categories: [Literatura]
 
 ```
 
-
-
+<!-- ####################################################################### -->
 ## Como nasce o sentimento nacionalista?
 
 ### Grécia
@@ -65,48 +64,50 @@ Imagine-se no Brasil de 1850... Qual é o herói nacional de quem você descende
 
 
 
-
+<!-- ####################################################################### -->
 ## Contexto Cultural
+
+![Primeira parte do folhetim _Os trabalhadores do mar_, de Victor Hugo, traduzido e publicado na edição de 15 de março de 1866 do Diário do Rio de Janeiro](../img/folhetim01.png){fig-align="center" width="700px"}
 
 - A publicação de folhetins diários fez sucesso no Brasil. Tal estratégia aumentou de forma expressiva a tiragem dos periódicos, com uma nova narrativa, envolvente, de linguagem acessível, sem complicações intelectuais, de acontecimentos rápidos e de emoções fortes.
 
 - A estrutura folhetinescaapresentava conflitos que provocavam a desordem e estabeleciam a crise nos valores burgueses; contudo, a s dificuldades eram superadas e a felicidade era restabelecida com a reordenação da ordem burguesa, reafirmando-se os seus valores.
 
-- O público leitor desses folhetinse era tipicamente urbano, apesar das raízes rurais: mulheres e estudantes que s e estabeleceram na corte após a Independência em busca de ascensão econômica ou política ou filhos de senhores rurais que vinham completar os estudos.
+- O público leitor desses folhetinse era tipicamente urbano, apesar das raízes rurais: mulheres e estudantes que se estabeleceram na corte após a Independência em busca de ascensão econômica ou política ou filhos de senhores rurais que vinham completar os estudos.
 
-- O s folhetins folhetins modernizam u m a sociedade incomodada com ideias intolerantes que refletiam a visão agrária e atrasada destoando dos valores urbanos apregoados pela burguesia. A literatura brasileira abandona as cópias e versões, inaugurando a era do romance nacional.
+- Os folhetins folhetins modernizam uma sociedade incomodada com ideias intolerantes que refletiam a visão agrária e atrasada destoando dos valores urbanos apregoados pela burguesia. A literatura brasileira abandona as cópias e versões, inaugurando a era do romance nacional.
 
-![][]
+
 
 ## Características da prosa romaântica
 
 - *Tipos:* urbana, regional, indianista e histórica;
+- Idealização;
+- Sentimentalismo;
 - Índio como herói;
 - Idealização da nação;
 - Passado histórico glorioso;
-- Interesses d a elite;
+- Interesses da elite;
 - Adequação ao novo público leitor;
+- Enredos simples e repetitivos;
+- Uso de adjetivações;
 - Linguagem "brasileira".
 
 
 ### Romance Urbano
-- ambientada nas cidades;
-
+- Ambientada nas cidades;
 
 ### Romance Indianista
-- ( q u e t a m b é m é histórica) - t e m c o m o
-protagonista o índio - focalizado também, como na poesia,
+- (que também é histórico) --- tem como protagonista o índio --- focalizado também, como na poesia.
 
 ### Romance Regionalista
-- necessidade d e valorizar culturalmente
-todo o s espaços d o Brasil.
+- Necessidade de valorizar culturalmente todo os espaços do Brasil.
 
 ### Romance Histórico
-- incorpora figuras históricas o u até lendárias,
-situando-as e m s e u tempo e e s p a ç o reais.
+- Incorpora figuras históricas ou até lendárias, situando-as em seus tempo e espaço reais.
 
 
-
+<!-- ####################################################################### -->
 ## Joaquim Manoel de Macedo
 
 Joaquim Manuel de Macedo (Itaboraí, 24 de junho de 1820 — Itaboraí, 11 de abril de 1882) foi um médico, jornalista, escritor, professor, romancista, poeta, literato, teatrólogo, memorialista e político brasileiro.
@@ -125,6 +126,7 @@ O primeiro romance brasileiro — _O filho do pescador_, de Teixeira e Souza —
 Foi com _A Moreninha_ (1844), de Joaqum Manuel de Macedo, que surgiu o verdadeiro romance romântico brasileiro.
 
 
+<!-- ####################################################################### -->
 ## José de Alencar
 
 José Martiniano de Alencar (Fortaleza, 1.º de maio de 1829 — Rio de Janeiro, 12 de dezembro de 1877) foi um jornalista, advogado, político e escritor romântico brasileiro. É considerado o principal e o mais importante escritor do romantismo no Brasil, sendo por vezes considerado o pai da literatura brasileira.[^1]
@@ -156,6 +158,8 @@ José Martiniano de Alencar (Fortaleza, 1.º de maio de 1829 — Rio de Janeiro,
 
 ![](../img/alencar01.jpeg){fig-align="center" width=90%}
 
+
+<!-- ####################################################################### -->
 ## Manuel Antônio de Almeida
 
 Manuel Antônio de Almeida (Rio de Janeiro, 17 de novembro de 1830 — Macaé, 28 de novembro de 1861) foi um médico, escritor e professor brasileiro. É conhecido pelo seu romance Memórias de um Sargento de Milícias, considerado uma das mais importantes obras literárias do Brasil[1].[^4]
@@ -167,6 +171,8 @@ Manuel Antônio de Almeida (Rio de Janeiro, 17 de novembro de 1830 — Macaé, 2
 
 _Memórias de um sargento de Milícias_, de 1852, foi seu único livro. Retrata as classes média e baixa, algo muito incomum para a época, na qual os romances retratavam os ambientes aristocráticos. A experiência de ter tido uma infância pobre influenciou Manuel Antônio de Almeida no desenvolvimento de sua obra.
 
+
+<!-- ####################################################################### -->
 ## Viconde de Taunay
 
 **Alfredo Maria Adriano d'Escragnolle Taunay**, primeiro e único Visconde de Taunay, (Rio de Janeiro, 22 de fevereiro de 1843 – 25 de janeiro de 1899) foi um nobre, escritor, músico, professor, engenheiro militar, político, historiador e sociólogo brasileiro.
