@@ -8,18 +8,23 @@ lang: pt
   #categories: true
 
 book:
-  title: "Professor Robson"
+  # title: "Professor Robson"
   author: "Prof. Robson"
   #date: "4/24/2023"
   page-navigation: true
   chapters:
     - index.qmd
     #- summary.qmd
-    - part: bim01/bim01_.qmd ### 1º BIMESTRE ###
+    - part: literatura/literatura.qmd ### LITERATURA
       chapters:
+          - literatura/romantismo-prosa.qmd
+    - part: redacao/redacao.qmd ### REDAÇÃO
+      chapters:
+          - redacao/redacao.qmd
+    - part: gramatica/gramatica.qmd ### GRAMÁTICA
+      chapters:
+          - gramatica/gramatica.qmd 
           - bim01/bim01_cap01.qmd
-    - part: bim02/bim02_.qmd ### 2º BIMESTRE ###
-      chapters:
           - bim02/bim02_cap01.qmd ## Exemplo de Carta Argumentativa
           - bim02/bim02_cap02.qmd ## Proposta de Carta Argumentativa
           - bim02/bim02_cap03.qmd ## Naturalismo
