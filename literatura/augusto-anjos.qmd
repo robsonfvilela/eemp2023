@@ -1,0 +1,71 @@
+---
+title: "📘 Augusto dos Anjos"
+#author: "Aluísio Azevedo"
+#date: "2023-04-21"
+#date-modified: "5/23/2021"
+---
+
+<!-- ![](thumbnail.jpg) -->
+
+- - -
+
+:::{.callout-margin}
+O conteúdo desta página foi retirado de @alvesVeredasPalavraVol2016c (pp. 85-86).
+:::
+
+## A poesia produzida no início do século XX
+
+:::{.column-margin}
+![Augusto dos Anjos](../img/augusto-dos-anjos.jpg)
+:::
+
+### Augusto dos Anjos: um poeta original
+
+Autor de um único livro, intitulado Eu (1912), Augusto de Carvalho Rodri- gues dos Anjos é considerado singular. Seus poemas, quase sempre sombrios, expressam uma angústia existencial e uma atitude pessimista diante da vida, não encontrando pontos de convergência com nada do que se produzia no pe- ríodo pré-modernista.
+
+
+
+Leia o que escreveu Rodrigo Cardoso sobre a arte de Augusto dos Anjos:
+
+:::{.callout-important}
+
+Situada fora da linha cronológica e estilística da literatura nacional, a lí- rica do “poeta hediondo”^[**hediondo**: repelente, repulsivo, horrendo.], como ele mesmo se denominava, serve como exemplo de confluência^[**confluência**: qualidade do que é confluente, convergente, aquilo que corre para o mesmo ponto.] estética no campo artístico, sendo possível inscrever nela boa parte das temáticas de obras de alguns dos poetas mais eminentes^[**eminentes**: importantes, destacados, que ocupam posição elevada, proeminentes.] de nosso país e, ao mesmo tempo, vislumbrar^[**vislumbrar**: perceber, entrever, avistar.] características até hoje sem par [...].
+
+Psicologia, poesia e pintura concatenam-se^[**concatenam-se**: estabelecem relação entre, relacionam.] em sua linguagem extrava- gante. O certo é que o poeta, como grande artista universal que era, desejou evidenciar novos ângulos sobre os seres, as coisas e a própria arte, notada- mente a poética.
+
+> CARDOSO, Rodrigo. As expressões do Eu. Revista Literatura, São Paulo, n. 25, p. 44, 2010.
+
+:::
+
+O uso da palavra considerada apoética, o arranjo singular e expressivo de ideias, a recorrência à ciência como metáfora geradora de imagens são algumas características marcantes do autor, as quais se evidenciam em sonetos como “Psicologia de um vencido”, reproduzido a seguir.
+
+:::{.callout-note}
+### Psicologia de um vencido
+
+|       Eu, filho do carbono e do amoníaco, 
+|       Monstro de escuridão e rutilância^[**rutilância**: qualidade do que é rutilante, muito brilhante, resplandecente.],
+|       Sofro, desde a epigênesis^[**epigênesis**: teoria segundo a qual a constituição dos seres se inicia a partir de uma célula sem estrutura e se faz mediante sucessiva formação e adição de novas partes que, previamente, não existem no ovo fecundado; epigênese.] da infância, 
+|       A influência má dos signos do zodíaco.
+|
+|       Profundissimamente hipocondríaco^[**hipocondríaco**: em sentido literal, é aquele que se julga permanentemente doente; em sentido figurado, triste, melancólico.],
+|       Este ambiente me causa repugnância...
+|       Sobe-me à boca uma ânsia análoga à ânsia
+|       Que se escapa da boca de um cardíaco.
+|
+|       Já o verme – este operário das ruínas –
+|       Que o sangue podre das carnificinas
+|       Come, e à vida em geral declara guerra,
+|
+|       Anda a espreitar meus olhos para roê-los,
+|       E há de deixar-me apenas os cabelos,
+|       Na frialdade inorgânica da terra!
+
+> ANJOS, Augusto dos. *Obra completa*. Rio de Janeiro: Nova Aguilar, 1994. p. 203.
+:::
+
+
+
+
+
+
+

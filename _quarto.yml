@@ -18,24 +18,20 @@ book:
     - part: literatura/literatura.qmd ### LITERATURA
       chapters:
           - literatura/romantismo-prosa.qmd
+          - literatura/naturalismo.qmd
+          - literatura/o-cortico.qmd
+          - literatura/pre-modernismo.qmd
+          - literatura/euclides-cunha.qmd
+          - literatura/lima-barreto.qmd
+          - literatura/monteiro-lobato.qmd
+          - literatura/augusto-anjos.qmd
     - part: redacao/redacao.qmd ### REDAÇÃO
       chapters:
-          - redacao/redacao.qmd
+          - redacao/cronica-scliar.qmd
+          - redacao/carta-argumentativa-proposta-01.qmd
     - part: gramatica/gramatica.qmd ### GRAMÁTICA
       chapters:
-          - gramatica/gramatica.qmd 
-          - bim01/bim01_cap01.qmd
-          - bim02/bim02_cap01.qmd ## Exemplo de Carta Argumentativa
-          - bim02/bim02_cap02.qmd ## Proposta de Carta Argumentativa
-          - bim02/bim02_cap03.qmd ## Naturalismo
-          - bim02/bim02_cap04.qmd ## O Cortiço
-          - bim02/bim02_cap05.qmd ## Pré-Modernismo
-          - bim02/bim02_cap06.qmd ## Augusto dos Anjos
-          - bim02/bim02_cap07.qmd ## Euclides da Cunha
-          - bim02/bim02_cap08.qmd ## Lima Barreto
-          - bim02/bim02_cap09.qmd ## Monteiro Lobato
-          - literatura/literatura.qmd ## Literatura
-          - literatura/romantismo-prosa.qmd 
+          - gramatica/gramatica.qmd
     #- references.qmd
   #appendices:
     #- cap_01.qmd
