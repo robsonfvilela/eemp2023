@@ -8,7 +8,7 @@ lang: pt
   #categories: true
 
 book:
-  title: "Língua Portuguesa"
+  title: "Professor Robson"
   author: "Prof. Robson"
   #date: "4/24/2023"
   page-navigation: true
@@ -29,6 +29,8 @@ book:
           - bim02/bim02_cap07.qmd ## Euclides da Cunha
           - bim02/bim02_cap08.qmd ## Lima Barreto
           - bim02/bim02_cap09.qmd ## Monteiro Lobato
+          - literatura/literatura.qmd ## Literatura
+          - literatura/romantismo-prosa.qmd 
     #- references.qmd
   #appendices:
     #- cap_01.qmd
@@ -50,8 +52,8 @@ bibliography: references.bib # exportar como "Better BibLaTeX"
 format:
   html:
     theme:
+      dark: darkly #superhero #flatly #sketchy #lux #litera #darkly #superhero
       light: flatly #litera
-      dark: superhero #darkly #flatly #sketchy #lux #litera #darkly #superhero
     code-copy: true
     linestretch: 1.5 # Espaçamento de linha (padrão = 1.5)
     margin-left: 00mm

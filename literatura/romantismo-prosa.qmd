@@ -1,0 +1,225 @@
+---
+categories: [Literatura]
+---
+
+# Romantismo: Prosa
+
+
+## Cronologia
+
+```{mermaid}
+   %%{init: { 'logLevel': 'debug', 'theme': 'base', 'timeline': }}%%
+    timeline
+        title Brasil Colônia
+          1500 : Invasão dos portugueses
+                : Catequisação dos indígenas
+          1600 : Barroco : Gregório de Matos
+          1700 
+                : (1760 – 1840) Revolução Industrial
+                : (1768-1836) Arcadismo brasileiro
+                : (1774) Os sofrimentos do jovem Werther
+                : (1776) Independência dos EUA
+                : (1789 e 1799) Revolução Francesa
+                : (1789) Inconfidência Mineira
+          1800 
+                : (1808) Chegada da Família Real
+                : (1822) Independência do Brasil
+                : (1836-1881) Romantismo brasileiro
+                : (1881-1893/1902) Realismo brasileiro
+          1900 : (1902) Pré-Modernismo
+
+```
+
+
+
+## Como nasce o sentimento nacionalista?
+
+### Grécia
+
+![](../img/aquiles02.png){fig-align="center" width=100%}
+
+
+
+### Japão
+
+![](../img/samurai01.png){fig-align="center" width=100%}
+
+
+### Portugal
+
+![](../img/lusiadas01.jpeg){fig-align="center" width=100%}
+
+
+### Europa
+
+![](../img/cavaleiro01.png){fig-align="center" width=100%}
+
+### Brasil?
+
+Imagine-se no Brasil de 1850... Qual é o herói nacional de quem você descende?
+
+![](../img/seta04.png){fig-align="center" width=100%}
+
+![](../img/peri01.png){fig-align="center" width=100%}
+---
+
+
+
+
+## Contexto Cultural
+
+- A publicação de folhetins diários fez sucesso no Brasil. Tal estratégia aumentou de forma expressiva a tiragem dos periódicos, com uma nova narrativa, envolvente, de linguagem acessível, sem complicações intelectuais, de acontecimentos rápidos e de emoções fortes.
+
+- A estrutura folhetinescaapresentava conflitos que provocavam a desordem e estabeleciam a crise nos valores burgueses; contudo, a s dificuldades eram superadas e a felicidade era restabelecida com a reordenação da ordem burguesa, reafirmando-se os seus valores.
+
+- O público leitor desses folhetinse era tipicamente urbano, apesar das raízes rurais: mulheres e estudantes que s e estabeleceram na corte após a Independência em busca de ascensão econômica ou política ou filhos de senhores rurais que vinham completar os estudos.
+
+- O s folhetins folhetins modernizam u m a sociedade incomodada com ideias intolerantes que refletiam a visão agrária e atrasada destoando dos valores urbanos apregoados pela burguesia. A literatura brasileira abandona as cópias e versões, inaugurando a era do romance nacional.
+
+- 
+
+## Características da prosa romaântica
+
+- *Tipos:* urbana, regional, indianista e histórica;
+- Índio como herói;
+- Idealização da nação;
+- Passado histórico glorioso;
+- Interesses d a elite;
+- Adequação ao novo público leitor;
+- Linguagem "brasileira".
+
+## Joaquim Manoel de Macedo
+
+Joaquim Manuel de Macedo (Itaboraí, 24 de junho de 1820 — Itaboraí, 11 de abril de 1882) foi um médico, jornalista, escritor, professor, romancista, poeta, literato, teatrólogo, memorialista e político brasileiro.
+
+É o patrono da cadeira 20 da Academia Brasileira de Letras.[^3]
+
+[^3]: [Joaquim Manoel de Macedo](https://pt.wikipedia.org/wiki/Joaquim_Manuel_de_Macedo)
+
+
+![Joaquim Manoel de Macedo](https://upload.wikimedia.org/wikipedia/commons/3/36/Joaquim_Manuel_de_Macedo_1866.png){fig-align="center" width="300px"}
+
+### A Moreninha
+
+O primeiro romance brasileiro — _O filho do pescador_, de Teixeira e Souza — foi publicado em 1843, entretanto não conquistou muita popularidade, pois apresentava uma trama bastante confusa.
+
+Foi com _A Moreninha_ (1844), de Joaqum Manuel de Macedo, que surgiu o verdadeiro romance romântico brasileiro.
+
+
+## José de Alencar
+
+José Martiniano de Alencar (Fortaleza, 1.º de maio de 1829 — Rio de Janeiro, 12 de dezembro de 1877) foi um jornalista, advogado, político e escritor romântico brasileiro. É considerado o principal e o mais importante escritor do romantismo no Brasil, sendo por vezes considerado o pai da literatura brasileira.[^1]
+
+[^1]: [**José de Alencar**](https://pt.wikipedia.org/wiki/José_de_Alencar)
+
+![](https://upload.wikimedia.org/wikipedia/commons/e/ec/Jose_de_Alencar.png){fig-align="center" width="300px"}
+
+### Cronologia[^2]
+
+[^2]: [Cronologia](https://pt.wikipedia.org/wiki/José_de_Alencar#Cronologia)
+
+- 1840: Transfere-se com a família para o Rio de Janeiro.
+- 1840: Está matriculado no Colégio de Instrução Elementar.
+- 1846: Ingressa na Faculdade de Direito do Largo de São Francisco, em São Paulo.
+- 1848: Transfere-se para a Faculdade de Direito de Olinda.
+- 1850: Em São Paulo novamente, forma-se em Direito.
+- 1854: Inicia, no Rio de Janeiro com sua colaboração no Correio Mercantil.
+- 1856 :Trabalha como redator-chefe no Diário do Rio de Janeiro. Publica as Cartas sobre a confederação dos Tamoios, polêmica com Gonçalves de Magalhães. Estreia na ficção com o romance Cinco minutos.
+- 1857: Publica com grande repercussão O Guarani, primeiro em folhetins, depois em livro.
+- 1860: Morre o pai do escritor - José Martiniano de Alencar -, que fora revolucionário e político influente.
+- 1861: Elege-se deputado. Reeleito em várias legislaturas subsequentes.
+- 1865: Nasce o seu filho Augusto de Alencar.
+- 1868: Ministro da Justiça durante dois anos no Gabinete Conservador.
+- 1870: Abandona a carreira política, magoado com o imperador dom Pedro II. De acordo com Oliveira Lima, Pedro II teria ponderado sobre o porquê de Alencar, quando Ministro da Justiça no Gabinete Itaboraí, ter demitido o chefe de polícia do Pará, "o qual, no exercício de suas funções, descobrira e denunciara ligações entre criminosos do Pará e habitantes do Ceará que eram influências eleitorais" (Oliveira Lima, 2021, p. 130).
+- 1872: Nasce o seu filho Mário de Alencar.
+- 1877: Vítima de tuberculose, viaja para a Europa, tentando curar-se. Morreu no Rio de Janeiro em 12 de dezembro.
+
+
+![](../img/alencar01.jpeg){fig-align="center" width=90%}
+
+![](../img/seta05.png){fig-align="center" width=40%}
+
+## Manuel Antônio de Almeida
+
+Manuel Antônio de Almeida (Rio de Janeiro, 17 de novembro de 1830 — Macaé, 28 de novembro de 1861) foi um médico, escritor e professor brasileiro. É conhecido pelo seu romance Memórias de um Sargento de Milícias, considerado uma das mais importantes obras literárias do Brasil[1].[^4]
+
+[^4]: [**Manuel Antônio de Almeida**](https://pt.wikipedia.org/wiki/Manuel_Antônio_de_Almeida)
+
+![](https://upload.wikimedia.org/wikipedia/commons/9/97/Manuel_Antonio_de_Almeida.jpg){fig-align="center" width="300px"}
+
+
+_Memórias de um sargento de Milícias_, de 1852, foi seu único livro. Retrata as classes média e baixa, algo muito incomum para a época, na qual os romances retratavam os ambientes aristocráticos. A experiência de ter tido uma infância pobre influenciou Manuel Antônio de Almeida no desenvolvimento de sua obra.
+
+## Viconde de Taunay
+
+**Alfredo Maria Adriano d'Escragnolle Taunay**, primeiro e único Visconde de Taunay, (Rio de Janeiro, 22 de fevereiro de 1843 – 25 de janeiro de 1899) foi um nobre, escritor, músico, professor, engenheiro militar, político, historiador e sociólogo brasileiro.
+
+Foi um dos fundadores da Academia Brasileira de Letras (ABL), ocupando a Cadeira n.° 13. Também é o patrono da Cadeira n.° 17 da Academia Brasileira de Música (ABM).[^4]
+
+[^5]: [Viconde de Taunay](https://pt.wikipedia.org/wiki/Alfredo_d%27Escragnolle_Taunay)
+
+![](https://upload.wikimedia.org/wikipedia/commons/9/97/Alfredo_Taunay.JPG){fig-align="center" width="300px"}
+
+### Trecho de _Inocência_
+
+![](../img/inocencia01.jpg){fig-align="center" width="300px"}
+
+Estava Cirino fazendo o inventário da sua roupa e já começava a anoitecer, quando Pereira novamente a ele se chegou.
+
+— Doutor, disse o mineiro, pode agora mecê entrar para ver a pequena. Está com o pulso que nem um fio, mas não tem febre de qualidade nenhuma.
+
+— Assim é bem melhor, respondeu Cirino.
+
+E, arranjando precipitadamente o que havia tirado da canastra, fechou-a e pôs-se de pé.
+
+Antes de sair da sala, deteve Pereira o hóspede com ar de quem precisava tocar em assunto de gravidade e ao mesmo tempo de difícil explicação.
+
+Afinal começou meio hesitante:
+
+— Sr. Cirino, eu cá sou homem muito bom de gênio, muito amigo de todos, muito acomodado e que tenho o coração perto da boca, como vosmecê deve ter visto…
+
+— Por certo, concordou o outro.
+
+— Pois bem, mas… tenho um grande defeito; sou muito desconfiado. Vai o doutor entrar no interior da minha casa e… deve portar-se como…
+
+— Oh, Sr. Pereira! atalhou Cirino com animação, mas sem grande estranheza, pois conhecia o zelo com que os homens do sertão guardam da vista dos profanos os seus aposentos domésticos, posso gabar-me de ter sido recebido no seio de muita família honesta e sei proceder como devo.
+
+Expandiu-se um tanto o rosto do mineiro.
+
+— Vejo, disse ele com algum acanhamento, que o doutor não é nenhum pé-rapado, mas nunca é bom facilitar… E já que não há outro remédio, vou dizer-lhe todos os meus segredos… Não metem vergonha a ninguém, com o favor de Deus; mas em negócios da minha casa não gosto de bater língua… Minha filha Nocência fez 18 anos pelo Natal, e é rapariga que pela feição parece moça de cidade, muito ariscazinha de modos, mas bonita e boa deveras… Coitada, foi criada sem mãe, e aqui nestes fundões. […]
+
+— Ora muito que bem, continuou Pereira caindo aos poucos na habitual garrulice, quando vi a menina tomar corpo, tratei logo de casá-la.
+
+— Ah! é casada? perguntou Cirino.
+
+— Isto é, é e não é. A coisa está apalavrada. Por aqui costuma labutar no costeio do gado para São Paulo um homem de mãocheia, que talvez o Sr. conheça… o Manecão Doca…
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+— Esta obrigação de casar as mulheres é o diabo!… Se não tomam estado, ficam jururus e fanadinhas…; se casam podem cair nas mãos de algum marido malvado… E depois, as histórias!… Ih, meu Deus, mulheres numa casa, é coisa de meter medo… São redomas de vidro que tudo pode quebrar… Enfim, minha filha, enquanto solteira, honrou o nome de meus pais… O Manecão que se aguente, quando a tiver por sua… Com gente de saia não há que fiar… Cruz! botam famílias inteiras a perder, enquanto o demo esfrega um olho.
+
+Esta opinião injuriosa sobre as mulheres é, em geral, corrente nos nossos sertões e traz como consequência imediata e prática, além da rigorosa clausura em que são mantidas, não só o casamento convencionado entre parentes muito chegados para filhos de menor idade, mas sobretudo os numerosos crimes cometidos, mal se suspeita possibilidade de qualquer intriga amorosa entre pessoa da família e algum estranho.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+— Sr. Pereira, replicou Cirino com calma, já lhe disse e torno-lhe a dizer que, como médico, estou há muito tempo acostumado a lidar com famílias e a respeitá-las. É este meu dever, e até hoje, graças a Deus, a minha fama é boa… Quanto às mulheres, não tenho as suas opiniões, nem as acho razoáveis nem de justiça. Entretanto, é inútil discutirmos porque sei que isso são prevenções vindas de longe, e quem torto nasce, tarde ou nunca se endireita… O Sr. falou-me com toda franqueza, e também com franqueza lhe quero responder. No meu parecer, as mulheres são tão boas como nós, se não melhores: não há, pois, motivo para tanto desconfiar delas e ter os homens em tão boa conta… enfim, essas suas ideias podem quadrar-lhe à vontade, e é costume meu antigo a ninguém contrariar, para viver bem com todos e deles merecer o tratamento que julgo ter direito a receber. Cuide cada qual de si, olhe Deus para todos nós, e ninguém queira arvorar-se em palmatória do mundo.
+
+Tal profissão de fé, expedida em tom dogmático e superior, pareceu impressionar agradavelmente a Pereira, que fora aplaudindo com expressivo movimento de cabeça a sensatez dos conceitos e a fluência da frase.
+
+## Romance Urbano
+- ambientada nas cidades;
+
+
+## Romance Indianista
+- ( q u e t a m b é m é histórica) - t e m c o m o
+protagonista o índio - focalizado também, como na poesia,
+
+## Romance Regionalista
+- necessidade d e valorizar culturalmente
+todo o s espaços d o Brasil.
+
+## Romance Histórico
+- incorpora figuras históricas o u até lendárias,
+situando-as e m s e u tempo e e s p a ç o reais.
+
+
