@@ -76,7 +76,6 @@ Imagine-se no Brasil de 1850... Qual é o herói nacional de quem você descende
 
 - O s folhetins folhetins modernizam u m a sociedade incomodada com ideias intolerantes que refletiam a visão agrária e atrasada destoando dos valores urbanos apregoados pela burguesia. A literatura brasileira abandona as cópias e versões, inaugurando a era do romance nacional.
 
-- 
 
 ## Características da prosa romaântica
 
@@ -87,6 +86,25 @@ Imagine-se no Brasil de 1850... Qual é o herói nacional de quem você descende
 - Interesses d a elite;
 - Adequação ao novo público leitor;
 - Linguagem "brasileira".
+
+
+### Romance Urbano
+- ambientada nas cidades;
+
+
+### Romance Indianista
+- ( q u e t a m b é m é histórica) - t e m c o m o
+protagonista o índio - focalizado também, como na poesia,
+
+### Romance Regionalista
+- necessidade d e valorizar culturalmente
+todo o s espaços d o Brasil.
+
+### Romance Histórico
+- incorpora figuras históricas o u até lendárias,
+situando-as e m s e u tempo e e s p a ç o reais.
+
+
 
 ## Joaquim Manoel de Macedo
 
@@ -136,8 +154,6 @@ José Martiniano de Alencar (Fortaleza, 1.º de maio de 1829 — Rio de Janeiro,
 
 
 ![](../img/alencar01.jpeg){fig-align="center" width=90%}
-
-![](../img/seta05.png){fig-align="center" width=40%}
 
 ## Manuel Antônio de Almeida
 
@@ -206,20 +222,6 @@ Esta opinião injuriosa sobre as mulheres é, em geral, corrente nos nossos sert
 
 Tal profissão de fé, expedida em tom dogmático e superior, pareceu impressionar agradavelmente a Pereira, que fora aplaudindo com expressivo movimento de cabeça a sensatez dos conceitos e a fluência da frase.
 
-## Romance Urbano
-- ambientada nas cidades;
 
-
-## Romance Indianista
-- ( q u e t a m b é m é histórica) - t e m c o m o
-protagonista o índio - focalizado também, como na poesia,
-
-## Romance Regionalista
-- necessidade d e valorizar culturalmente
-todo o s espaços d o Brasil.
-
-## Romance Histórico
-- incorpora figuras históricas o u até lendárias,
-situando-as e m s e u tempo e e s p a ç o reais.
 
 
