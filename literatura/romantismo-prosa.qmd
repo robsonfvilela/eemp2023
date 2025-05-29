@@ -146,7 +146,7 @@ José Martiniano de Alencar (Fortaleza, 1.º de maio de 1829 — Rio de Janeiro,
 - 1848: Transfere-se para a Faculdade de Direito de Olinda.
 - 1850: Em São Paulo novamente, forma-se em Direito.
 - 1854: Inicia, no Rio de Janeiro com sua colaboração no Correio Mercantil.
-- 1856 :Trabalha como redator-chefe no Diário do Rio de Janeiro. Publica as Cartas sobre a confederação dos Tamoios, polêmica com Gonçalves de Magalhães. Estreia na ficção com o romance Cinco minutos.
+- 1856: Trabalha como redator-chefe no Diário do Rio de Janeiro. Publica as Cartas sobre a confederação dos Tamoios, polêmica com Gonçalves de Magalhães. Estreia na ficção com o romance Cinco minutos.
 - 1857: Publica com grande repercussão O Guarani, primeiro em folhetins, depois em livro.
 - 1860: Morre o pai do escritor - José Martiniano de Alencar -, que fora revolucionário e político influente.
 - 1861: Elege-se deputado. Reeleito em várias legislaturas subsequentes.
@@ -156,6 +156,13 @@ José Martiniano de Alencar (Fortaleza, 1.º de maio de 1829 — Rio de Janeiro,
 - 1872: Nasce o seu filho Mário de Alencar.
 - 1877: Vítima de tuberculose, viaja para a Europa, tentando curar-se. Morreu no Rio de Janeiro em 12 de dezembro.
 
+
+### Obras por tema
+
+- **Históricos:** As minas de prata, Guerra dos Mascates.
+- **Regionalistas:** Til, O sertanejo, O tronco de Ipê, O gaúcho.
+- **Urbanos:** Senhora, Lucíola, Diva, A viuvinha, Cinco minutos, A pata da gazela.
+- **Indianistas:** Iracema, Ubirajara e O guarani.
 
 ![](../img/alencar01.jpeg){fig-align="center" width=90%}
 
