@@ -19,6 +19,7 @@ book:
     - part: literatura/literatura.qmd ### LITERATURA
       chapters:
           - literatura/romantismo-prosa.qmd
+          - literatura/livro-iracema.qmd
           - literatura/naturalismo.qmd
           - literatura/o-cortico.qmd
           - literatura/pre-modernismo.qmd
@@ -60,7 +61,7 @@ bibliography: references.bib # exportar como "Better BibLaTeX"
 format:
   html:
     theme:
-      dark: darkly #superhero #flatly #sketchy #lux #litera #darkly #superhero
+      dark: solar #slate #darkly #superhero #flatly #sketchy #lux #litera #darkly #superhero
       light: flatly #litera
     code-copy: true
     linestretch: 1.5 # Espaçamento de linha (padrão = 1.5)
@@ -87,4 +88,4 @@ fig-cap-location: bottom
 tbl-cap-location: top
 fig-align: center
 
-fontsize: 16px # Default: 18px
+fontsize: 18px # Default: 18px

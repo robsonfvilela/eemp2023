@@ -1,5 +1,5 @@
 ---
-title: "📘 Augusto dos Anjos"
+title: "✍🏼 Augusto dos Anjos"
 #author: "Aluísio Azevedo"
 #date: "2023-04-21"
 #date-modified: "5/23/2021"
