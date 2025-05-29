@@ -21,7 +21,9 @@ categories: [Literatura]
 # 1800
 ## lslsl
 
-[Romantismo](romantismo/romantismo-prosa.qmd)
+[Romantismo](literatura/romantismo-prosa.qmd)
+
+[Naturalismo](literatura/naturalismo.qmd)
 
 # 1900
 ## lslsl

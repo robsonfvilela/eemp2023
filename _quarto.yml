@@ -14,6 +14,7 @@ book:
   page-navigation: true
   chapters:
     - index.qmd
+    - escolas/escolas.qmd
     #- summary.qmd
     - part: literatura/literatura.qmd ### LITERATURA
       chapters:
@@ -32,6 +33,12 @@ book:
     - part: gramatica/gramatica.qmd ### GRAMÁTICA
       chapters:
           - gramatica/gramatica.qmd
+    - part: escolas/escolas.qmd ### GRAMÁTICA
+      chapters:
+          - escolas/2eefe_conteudo.qmd
+          - escolas/1eemp_conteudo.qmd
+          - escolas/2eemp_conteudo.qmd
+          - escolas/3eemp_conteudo.qmd
     #- references.qmd
   #appendices:
     #- cap_01.qmd

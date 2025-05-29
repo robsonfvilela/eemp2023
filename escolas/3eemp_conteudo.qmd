@@ -1,0 +1,63 @@
+---
+title: "📕 3º ANO: Conteúdo"
+categories: [Literatura]
+---
+
+[Escolas](escolas.html)
+
+# Conteúdo programático
+
+<!-- 1º bimestre -------------------------------------------------------------->
+## 1º BIMESTRE
+
+- **Literatura:**
+- [ ] Pré-modernismo
+- [ ] Vanguardas Europeias
+- [ ] 1ª geração modernista
+- [ ] Contexto histórico e de produção
+- **Gramática:**
+- [ ] Sintaxe do período simples Sintaxe do período composto
+- **Produção de texto:**
+- [ ] Revisão: tipologia e gêneros textuais Texto de Opinião
+- [ ] Editorial
+
+## 2º BIMESTRE
+- **Literatura:**
+- [ ] 1a geração modernista
+- [ ] Contexto histórico e de produção Autores e obras
+- [ ] Prosa e poesia
+- **Gramática:**
+- [ ] Concordância verbal e nominal Regência verbal e nominal Crase
+- **Pŕodução de texto:**
+- [ ] Carta aberta
+- [ ] Carta de solicitação Carta de reclamação
+
+## 3º BIMESTRE
+- Literatura:
+- [ ] 2a geração modernista
+- [ ] Contexto histórico e de produção Autores e obras
+- [ ] Prosa e poesia
+- Gramática:
+- [ ] Coerência e Coesão textual Modalizadores textuais
+- Produção de texto:
+- [ ] Revisão: estratégias argumentativas
+- [ ] Texto dissertativo-argumentativo - Proposta ENEM
+
+## 4º BIMESTRE
+- **Literatura:**
+- [ ] 3a geração modernista
+- [ ] Contexto histórico e de produção Autores e obras
+- [ ] Prosa e poesia
+- **Gramática:**
+- [ ] Revisão Enem:
+  - [ ] variação linguística, 
+  - [ ] funções de linguagem,
+  - [ ] figuras de linguagem,
+  - [ ] formação de palavras (neologismo, estrangeirismo),
+  - [ ] tipologia e gêneros textuais,
+  - [ ] estratégias argumentativas.
+- **Pŕodução de texto:**
+- Revisão: 
+  - [ ] estrutura textual,
+  - [ ] estratégias argumentativas
+  - [ ] Texto dissertativo-argumentativo - Proposta ENEM
