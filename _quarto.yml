@@ -18,6 +18,7 @@ book:
     #- summary.qmd
     - part: literatura/literatura.qmd ### LITERATURA
       chapters:
+          - literatura/trovadorismo.qmd
           - literatura/romantismo-prosa.qmd
           - literatura/livro-iracema.qmd
           - literatura/naturalismo.qmd
