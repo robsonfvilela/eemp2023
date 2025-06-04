@@ -166,6 +166,69 @@ José Martiniano de Alencar (Fortaleza, 1.º de maio de 1829 — Rio de Janeiro,
 
 ![](../img/alencar01.jpeg){fig-align="center" width=90%}
 
+### Trecho de _Senhora_
+
+> O livro está dividido em quatro partes:
+> 
+> - "O Preço"
+> - "Quitação"
+> - "Posse"
+> - "Resgate"
+
+`O trecho abaixo é o início do Capítulo I da obra.`
+
+&emsp; Há anos raiou no céu fluminense uma nova estrela.
+
+&emsp; Desde o momento de sua ascensão ninguém lhe disputou o cetro; foi proclamada a rainha dos salões.
+
+&emsp; Tornou-se a deusa dos bailes; a musa dos poetas e o ídolo dos noivos em disponibilidade.
+
+&emsp; Era rica e formosa.
+
+&emsp; Duas opulências, que se realçam como a flor em vaso de alabastro; dois esplendores que se refletem, como o raio de sol no prisma do diamante.
+
+&emsp; Quem não se recorda da Aurélia Camargo, que atravessou o firmamento da corte como brilhante meteoro, e apagou-se de repente no meio do des- lumbramento que produzira o seu fulgor?
+
+&emsp; Tinha ela dezoito anos quando apareceu a primeira vez na sociedade. Não a conheciam; e logo buscaram todos com avidez informações acerca da grande novidade do dia.
+
+`O trecho abaixo mostra dois episódios do romance: a cena do casamento entre Aurélia e Seixas e a cena da noite de núpcias do casal.`
+
+
+&emsp; Os convidados, que antes lhe admiravam a graça peregrina, essa noite a achavam deslumbrante, e compreendiam que o amor tinha colorido com as tintas de sua palheta inimitável, a já tão feiticeira beleza, envolvendo-a de irresistível fascinação.
+
+&emsp; — Como ela é feliz! — diziam os homens.
+
+&emsp; --- E tem razão! — acrescentaram as senhoras volvendo os olhos ao noivo.
+
+&emsp; Também a fisionomia de Seixas se iluminava com o sorriso da felicidade. O orgulho de ser o escolhido daquela encantadora mulher ainda mais lhe ornava o aspecto já de si nobre e gentil.
+
+&emsp; Efetivamente, no marido de Aurélia podia-se apreciar essa fina flor da suprema distinção, que não se anda assoalhando nos gestos pretensiosos e nos ademanes[^ademane] artísticos; mas reverte do íntimo com uma fragrância que a modéstia busca recatar, e não obstante[^nao-obstante] exala-se dos seios d’alma.
+
+&emsp; Depois da cerimônia começaram os parabéns que é de estilo dirigir aos noivos e a seus parentes.
+
+&emsp; [...]
+
+&emsp; Para animar a reunião as moças improvisaram quadrilhas, no intervalo das quais um insigne[^insigne] pianista, que fora mestre de Aurélia, executava os melhores trechos de óperas então em voga.
+
+&emsp; Por volta das dez horas despediram-se as famílias convidadas.
+
+&emsp; [...]
+
+&emsp; Aurélia ergueu-se impetuosamente.
+
+&emsp; — Então enganei-me? — exclamou a moça com estranho arrebatamento[^arrebatamento]. — O senhor ama-me sinceramente e não se casou comigo por interesse?
+
+&emsp; Seixas demorou um instante o olhar no sem blante da moça, que estava suspensa de seus lábios, para beber-lhe as palavras:
+
+&emsp; — Não, senhora, não enganou-se, disse afinal com o mesmo tom frio e inflexível. Vendi-me; per tenço-lhe. A senhora teve o mau gosto de comprar um marido aviltado[^aviltado]; aqui o tem como desejou. Podia ter feito de um caráter, talvez gasto pela educação, um homem de bem, que se enobrecesse com sua afeição; preferiu um escravo branco; estava em seu direito, pagava com seu dinheiro, e pagava generosamente. Esse escravo aqui o tem; é seu marido, porém nada mais do que seu marido!
+
+
+[^ademane]: **Ademanes:**  aceno, trejeito, qualquer gesto ou comportamento afetado.
+[^nao-obstante]: **Não obstante:** apesar disso, contudo.
+[^insigne]: **Insigne:**  destacado, famoso, ilustre.
+[^arrebatamento]: **Arrebatamento:**  exaltação, arroubo, comportamento precipitado.
+[^aviltado]: **Aviltado:**  desonrado, rebaixado, envilecido.
+
 
 <!-- ####################################################################### -->
 ## Manuel Antônio de Almeida
@@ -176,9 +239,27 @@ Manuel Antônio de Almeida (Rio de Janeiro, 17 de novembro de 1830 — Macaé, 2
 
 ![](https://upload.wikimedia.org/wikipedia/commons/9/97/Manuel_Antonio_de_Almeida.jpg){fig-align="center" width="300px"}
 
-
 _Memórias de um sargento de Milícias_, de 1852, foi seu único livro. Retrata as classes média e baixa, algo muito incomum para a época, na qual os romances retratavam os ambientes aristocráticos. A experiência de ter tido uma infância pobre influenciou Manuel Antônio de Almeida no desenvolvimento de sua obra.
 
+### trecho de _Memórias de um Sargento de Milícias_
+
+&emsp; […] Ao sair do Tejo[^tejo], estando a Maria encostada à borda do navio, o Leonardo fingiu que passava distraído por junto dela, e com o ferrado sapatão assentou-lhe uma valente pisadela no pé direito. A Maria, como se já esperasse por aquilo, sorriu-se como envergonhada do gracejo, e deu-lhe também em ar de disfarce um tremendo beliscão nas costas da mão esquerda. Era isto uma declaração em forma, segundo os usos da terra: levaram o resto do dia de namoro cerrado; ao anoitecer passou-se a mesma cena de pisadela e beliscão, com a diferença de serem desta vez um pouco mais fortes; e no dia seguinte estavam os dois amantes tão extremosos e familiares, que pareciam sê-lo de muitos anos.
+
+&emsp; Quando saltaram em terra começou a Maria a sentir certos enojos; foram os dois morar juntos; e daí a um mês manifestaram-se claramente os efeitos da pisadela e do beliscão; sete meses depois teve a Maria um filho, formidável menino de quase três palmos de comprido, gordo e vermelho, cabeludo, esperneador e chorão; o qual, logo depois que nasceu, mamou duas horas seguidas sem largar o peito. E este nascimento é certamente de tudo o que temos dito o que mais nos interessa, porque o menino de quem falamos é o herói desta história.
+
+&emsp; Chegou o dia de batizar-se o rapaz: foi madrinha a parteira; sobre o padrinho houve suas dúvidas: o Leonardo queria que fosse o Sr. juiz; porém teve de ceder a instâncias[^instancia] da Maria e da comadre, que queriam que fosse o barbeiro de defronte, que afinal foi adotado. Já se sabe que houve nesse dia função: os convidados do dono da casa, que eram todos dalém-mar, cantavam ao desafio, segundo seus costumes; os convidados da comadre, que eram todos da terra, dançavam o fado. O compadre trouxe a rabeca[^rabeca], que é, como se sabe, o instrumento favorito da gente do ofício. A princípio, o Leonardo quis que a festa tivesse ares aristocráticos, e propôs que se dançasse o minuete[^minuete] da corte. Foi aceita a ideia, ainda que houvesse dificuldade em encontrarem-se pares. Afinal levantaram-se uma gorda e baixa matrona, mulher de um convidado; uma companheira desta, cuja figura era a mais completa antítese da sua; um colega do Leonardo, miudinho, pequenino, e com fumaças de gaiato, e o sacristão da Sé, sujeito alto, magro e com pretensões de elegante. O compadre foi quem tocou o minuete na rabeca; e o afilhadinho, deitado no colo da Maria, acompanhava cada arcada com um guincho e um esperneio. Isto fez com que o compadre perdesse muitas vezes o compasso, e fosse obrigado a recomeçar outras tantas.
+
+&emsp; Depois do minuete foi desaparecendo a cerimônia, e a brincadeira aferventou, como se dizia naquele tempo. Chegaram uns rapazes de viola e machete: o Leonardo, instado pelas senhoras, decidiu-se a romper a parte lírica do divertimento. Sentou-se num tamborete, em um lugar isolado da sala, e tomou uma viola. Fazia um belo efeito cômico, vê-lo, em trajes do ofício, de casaca, calção e espadim, acompanhando com um monótono zum-zum nas cordas do instrumento o garganteado de uma modinha pátria. Foi nas saudades da terra natal que ele achou inspiração para o seu canto, e isto era natural a um bom português, que o era ele.
+
+&emsp; […] O canto do Leonardo foi o derradeiro toque de rebate[^rebate] para esquentar-se a brincadeira, foi o adeus às cerimônias. Tudo daí em diante foi burburinho, que depressa passou à gritaria, e ainda mais depressa à algazarra. […]
+
+
+[^tejo]: **Tejo:** rio de Portugal.
+[^instancia]: **Instância:** pedido, solicitação, insistência.
+[^funcao]: **Rebate:** espetáculo.
+[^rabeca]: **Rabeca:** nome antiquado do violino.
+[^minuete]: **Minuete:** antiga dança francesa com movimentos delicados e equilibrados.
+[^rebate]: **Rebate:** sinal, anúncio.
 
 <!-- ####################################################################### -->
 ## Viconde de Taunay
@@ -195,47 +276,47 @@ Foi um dos fundadores da Academia Brasileira de Letras (ABL), ocupando a Cadeira
 
 ![](../img/inocencia01.jpg){fig-align="center" width="300px"}
 
-Estava Cirino fazendo o inventário da sua roupa e já começava a anoitecer, quando Pereira novamente a ele se chegou.
+&emsp; Estava Cirino fazendo o inventário da sua roupa e já começava a anoitecer, quando Pereira novamente a ele se chegou.
 
-— Doutor, disse o mineiro, pode agora mecê entrar para ver a pequena. Está com o pulso que nem um fio, mas não tem febre de qualidade nenhuma.
+&emsp; — Doutor, disse o mineiro, pode agora mecê entrar para ver a pequena. Está com o pulso que nem um fio, mas não tem febre de qualidade nenhuma.
 
-— Assim é bem melhor, respondeu Cirino.
+&emsp; — Assim é bem melhor, respondeu Cirino.
 
-E, arranjando precipitadamente o que havia tirado da canastra, fechou-a e pôs-se de pé.
+&emsp; E, arranjando precipitadamente o que havia tirado da canastra, fechou-a e pôs-se de pé.
 
-Antes de sair da sala, deteve Pereira o hóspede com ar de quem precisava tocar em assunto de gravidade e ao mesmo tempo de difícil explicação.
+&emsp; Antes de sair da sala, deteve Pereira o hóspede com ar de quem precisava tocar em assunto de gravidade e ao mesmo tempo de difícil explicação.
 
-Afinal começou meio hesitante:
+&emsp; Afinal começou meio hesitante:
 
-— Sr. Cirino, eu cá sou homem muito bom de gênio, muito amigo de todos, muito acomodado e que tenho o coração perto da boca, como vosmecê deve ter visto…
+&emsp; — Sr. Cirino, eu cá sou homem muito bom de gênio, muito amigo de todos, muito acomodado e que tenho o coração perto da boca, como vosmecê deve ter visto…
 
-— Por certo, concordou o outro.
+&emsp; — Por certo, concordou o outro.
 
-— Pois bem, mas… tenho um grande defeito; sou muito desconfiado. Vai o doutor entrar no interior da minha casa e… deve portar-se como…
+&emsp; — Pois bem, mas… tenho um grande defeito; sou muito desconfiado. Vai o doutor entrar no interior da minha casa e… deve portar-se como…
 
-— Oh, Sr. Pereira! atalhou Cirino com animação, mas sem grande estranheza, pois conhecia o zelo com que os homens do sertão guardam da vista dos profanos os seus aposentos domésticos, posso gabar-me de ter sido recebido no seio de muita família honesta e sei proceder como devo.
+&emsp; — Oh, Sr. Pereira! atalhou Cirino com animação, mas sem grande estranheza, pois conhecia o zelo com que os homens do sertão guardam da vista dos profanos os seus aposentos domésticos, posso gabar-me de ter sido recebido no seio de muita família honesta e sei proceder como devo.
 
-Expandiu-se um tanto o rosto do mineiro.
+&emsp; Expandiu-se um tanto o rosto do mineiro.
 
-— Vejo, disse ele com algum acanhamento, que o doutor não é nenhum pé-rapado, mas nunca é bom facilitar… E já que não há outro remédio, vou dizer-lhe todos os meus segredos… Não metem vergonha a ninguém, com o favor de Deus; mas em negócios da minha casa não gosto de bater língua… Minha filha Nocência fez 18 anos pelo Natal, e é rapariga que pela feição parece moça de cidade, muito ariscazinha de modos, mas bonita e boa deveras… Coitada, foi criada sem mãe, e aqui nestes fundões. […]
+&emsp; — Vejo, disse ele com algum acanhamento, que o doutor não é nenhum pé-rapado, mas nunca é bom facilitar… E já que não há outro remédio, vou dizer-lhe todos os meus segredos… Não metem vergonha a ninguém, com o favor de Deus; mas em negócios da minha casa não gosto de bater língua… Minha filha Nocência fez 18 anos pelo Natal, e é rapariga que pela feição parece moça de cidade, muito ariscazinha de modos, mas bonita e boa deveras… Coitada, foi criada sem mãe, e aqui nestes fundões. […]
 
-— Ora muito que bem, continuou Pereira caindo aos poucos na habitual garrulice, quando vi a menina tomar corpo, tratei logo de casá-la.
+&emsp; — Ora muito que bem, continuou Pereira caindo aos poucos na habitual garrulice, quando vi a menina tomar corpo, tratei logo de casá-la.
 
-— Ah! é casada? perguntou Cirino.
+&emsp; — Ah! é casada? perguntou Cirino.
 
-— Isto é, é e não é. A coisa está apalavrada. Por aqui costuma labutar no costeio do gado para São Paulo um homem de mãocheia, que talvez o Sr. conheça… o Manecão Doca…
-
-. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
-
-— Esta obrigação de casar as mulheres é o diabo!… Se não tomam estado, ficam jururus e fanadinhas…; se casam podem cair nas mãos de algum marido malvado… E depois, as histórias!… Ih, meu Deus, mulheres numa casa, é coisa de meter medo… São redomas de vidro que tudo pode quebrar… Enfim, minha filha, enquanto solteira, honrou o nome de meus pais… O Manecão que se aguente, quando a tiver por sua… Com gente de saia não há que fiar… Cruz! botam famílias inteiras a perder, enquanto o demo esfrega um olho.
-
-Esta opinião injuriosa sobre as mulheres é, em geral, corrente nos nossos sertões e traz como consequência imediata e prática, além da rigorosa clausura em que são mantidas, não só o casamento convencionado entre parentes muito chegados para filhos de menor idade, mas sobretudo os numerosos crimes cometidos, mal se suspeita possibilidade de qualquer intriga amorosa entre pessoa da família e algum estranho.
+&emsp; — Isto é, é e não é. A coisa está apalavrada. Por aqui costuma labutar no costeio do gado para São Paulo um homem de mãocheia, que talvez o Sr. conheça… o Manecão Doca…
 
 . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
 
-— Sr. Pereira, replicou Cirino com calma, já lhe disse e torno-lhe a dizer que, como médico, estou há muito tempo acostumado a lidar com famílias e a respeitá-las. É este meu dever, e até hoje, graças a Deus, a minha fama é boa… Quanto às mulheres, não tenho as suas opiniões, nem as acho razoáveis nem de justiça. Entretanto, é inútil discutirmos porque sei que isso são prevenções vindas de longe, e quem torto nasce, tarde ou nunca se endireita… O Sr. falou-me com toda franqueza, e também com franqueza lhe quero responder. No meu parecer, as mulheres são tão boas como nós, se não melhores: não há, pois, motivo para tanto desconfiar delas e ter os homens em tão boa conta… enfim, essas suas ideias podem quadrar-lhe à vontade, e é costume meu antigo a ninguém contrariar, para viver bem com todos e deles merecer o tratamento que julgo ter direito a receber. Cuide cada qual de si, olhe Deus para todos nós, e ninguém queira arvorar-se em palmatória do mundo.
+&emsp; — Esta obrigação de casar as mulheres é o diabo!… Se não tomam estado, ficam jururus e fanadinhas…; se casam podem cair nas mãos de algum marido malvado… E depois, as histórias!… Ih, meu Deus, mulheres numa casa, é coisa de meter medo… São redomas de vidro que tudo pode quebrar… Enfim, minha filha, enquanto solteira, honrou o nome de meus pais… O Manecão que se aguente, quando a tiver por sua… Com gente de saia não há que fiar… Cruz! botam famílias inteiras a perder, enquanto o demo esfrega um olho.
 
-Tal profissão de fé, expedida em tom dogmático e superior, pareceu impressionar agradavelmente a Pereira, que fora aplaudindo com expressivo movimento de cabeça a sensatez dos conceitos e a fluência da frase.
+&emsp; Esta opinião injuriosa sobre as mulheres é, em geral, corrente nos nossos sertões e traz como consequência imediata e prática, além da rigorosa clausura em que são mantidas, não só o casamento convencionado entre parentes muito chegados para filhos de menor idade, mas sobretudo os numerosos crimes cometidos, mal se suspeita possibilidade de qualquer intriga amorosa entre pessoa da família e algum estranho.
+
+. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+
+&emsp; — Sr. Pereira, replicou Cirino com calma, já lhe disse e torno-lhe a dizer que, como médico, estou há muito tempo acostumado a lidar com famílias e a respeitá-las. É este meu dever, e até hoje, graças a Deus, a minha fama é boa… Quanto às mulheres, não tenho as suas opiniões, nem as acho razoáveis nem de justiça. Entretanto, é inútil discutirmos porque sei que isso são prevenções vindas de longe, e quem torto nasce, tarde ou nunca se endireita… O Sr. falou-me com toda franqueza, e também com franqueza lhe quero responder. No meu parecer, as mulheres são tão boas como nós, se não melhores: não há, pois, motivo para tanto desconfiar delas e ter os homens em tão boa conta… enfim, essas suas ideias podem quadrar-lhe à vontade, e é costume meu antigo a ninguém contrariar, para viver bem com todos e deles merecer o tratamento que julgo ter direito a receber. Cuide cada qual de si, olhe Deus para todos nós, e ninguém queira arvorar-se em palmatória do mundo.
+
+&emsp; Tal profissão de fé, expedida em tom dogmático e superior, pareceu impressionar agradavelmente a Pereira, que fora aplaudindo com expressivo movimento de cabeça a sensatez dos conceitos e a fluência da frase.
 
 
 
